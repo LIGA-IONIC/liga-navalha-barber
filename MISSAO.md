@@ -1,6 +1,6 @@
-# Missão 03 · Navalha Barber
+# Projeto 03 · Navalha Barber
 
-## Lore
+## Contexto
 Barbearia da esquina: corta, marca horário e fecha a comanda.
 
 ## Itens sugeridos
@@ -12,12 +12,12 @@ Barbearia da esquina: corta, marca horário e fecha a comanda.
 | Sobrancelha | R$ 15 | |
 | Pigmentação | R$ 80 | esgotado |
 
-## Boss (obrigatório)
+## Regra do tema (obrigatória)
 **Combo Corte + barba** dá desconto visual: mostrar preço cheio riscado e total com **R$ 10 off** se os dois estiverem na comanda (ou o item combo já com regra clara na tela).
 Alternativa aceita: gorjeta 0/10/15% no fechamento.
 
-## Cofre (Firestore)
+## Firestore
 Coleção: `comandas_navalha`.
 
-## Rank sugerido da guilda
+## Visual sugerido
 Cor: preto / dourado
