@@ -1,23 +1,13 @@
-# Projeto 03 · Navalha Barber
+﻿# Navalha Barber
 
-## Contexto
-Barbearia da esquina: corta, marca horário e fecha a comanda.
+## O que fazer
+1. Abra **`PRINTS.html`** neste repo (é o gabarito visual).
+2. Monte o app **parecido com o print** (não precisa ser idêntico).
+3. A regra do tema está **nas telas do print** — observe totais, badges e mensagens.
+4. Cada semana o professor libera issues novas. Faça só as da semana aberta.
 
-## Itens sugeridos
-| Serviço | Preço | Detalhe |
-|---------|-------|---------|
-| Corte degradê | R$ 45 | |
-| Barba | R$ 30 | |
-| Corte + barba | R$ 65 | combo |
-| Sobrancelha | R$ 15 | |
-| Pigmentação | R$ 80 | esgotado |
+## Stack
+Node **22.23.1** · Ionic **9** standalone · Firebase de vocês
 
-## Regra do tema (obrigatória)
-**Combo Corte + barba** dá desconto visual: mostrar preço cheio riscado e total com **R$ 10 off** se os dois estiverem na comanda (ou o item combo já com regra clara na tela).
-Alternativa aceita: gorjeta 0/10/15% no fechamento.
-
-## Firestore
-Coleção: `comandas_navalha`.
-
-## Visual sugerido
-Cor: preto / dourado
+## Entrega
+Link do seu **fork** + demo: login → lista → regra do print → Firestore
